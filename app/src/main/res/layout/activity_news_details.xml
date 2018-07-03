@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewsDetailsActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/news_details"
+        android:text="The announcement from KBZ on Thursday said special advisor Mike DeNoma was also appointed chief executive officer of the bank while the KBZ heiresses executive directors Daw Nang Lang Kham and Daw Nang Kham Noung had been promoted to deputy CEOs along with senior managing director U Aung Kyaw Myo.
+Prior to joining the bank, the American banking expert held senior executive roles across the globe, managing operations across North America, Asia, Africa, Europe and the Middle East with Chinatrust Commercial Bank, Standard Chartered and Citibank.
+U Aung Ko Win said Mr. DeNoma’s high-level and wide-ranging experience was a strong asset to the bank, combining domestic and international banking expertise with the highest levels of customer service and innovation.
+“We also particularly value the experience Mr. DeNoma brings from having worked with another family-owned bank, through which he has shown a track record of driving growth and success, while retaining strong family principles,” he said.
+Founded in 1994, KBZ is a privately-owned bank and now has nearly 500 branches across the country."/>
+
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp">
+
+    <ImageView
+        android:id="@+id/imgNews"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop"
+        />
+
+    <TextView android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_toRightOf="@id/imgNews"
+        android:layout_alignParentRight="@id/imgNews"
+        android:text="KBZ Title"
+        />
+
+    <TextView android:id="@+id/tvDetails"
+        android:paddingLeft="10dp"
+        android:textSize="18dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/imgNews"
+        android:layout_alignParentRight="@id/imgNews"
+        android:layout_below="@id/tvTitle"
+        android:text="KBZ Details" />
+
+    <!--
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#0b0b0b"
+        android:padding="2dp"
+        android:layout_below="@id/tvDetails"
+        />
+-->
+
+</RelativeLayout>

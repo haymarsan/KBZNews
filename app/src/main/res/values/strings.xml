@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">KBZNews</string>
+    <string-array name="title">
+        <item>KBZ Appoints New CEO</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Burma’s largest private bank, KBZ, has hired a banking expert to act as a special advisor to the bank’s chairman U Aung Ko Win.</item>
+        <item>BBBBBBBBBBBBBBBBBBBBBBBBBBBB</item>
+        <item>CCCCCCCCCCCCCCCCCCCCCCCCCCCC</item>
+        <item>DDDDDDDDDDDDDDDDDDDDDDDDDDDD</item>
+        <item>EEEEEEEEEEEEEEEEEEEEEEEEEEEE</item>
+        <item>FFFFFFFFFFFFFFFFFFFFFFFFFFFF</item>
+
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/agd_img1</item>
+        <item>@drawable/agd_img2</item>
+        <item>@drawable/aya_img1</item>
+        <item>@drawable/kbz_img1</item>
+        <item>@drawable/cb_img2</item>
+        <item>@drawable/kbz_img2</item>
+    </array>
+
+
+    <!--<array name="newsMoreDetails">-->
+        <!--<item>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</item>-->
+        <!--<item>BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB</item>-->
+        <!--<item>CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC</item>-->
+        <!--<item>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</item>-->
+        <!--<item>EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</item>-->
+        <!--<item>FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</item>-->
+
+    <!--</array>-->
+</resources>
